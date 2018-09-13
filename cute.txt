@@ -3,6 +3,7 @@ puppy
 ocelot
 sloth
 bat
+bear
 
 
 
